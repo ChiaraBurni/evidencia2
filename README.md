@@ -18,6 +18,6 @@ Posee como funiocnes:
 . Consultar la cantidad de mediciones registradas: Mediante un contador se muestra cuantas mediciones se hicieron durante la sesión actual.
 
 instrucciones básicas de ejecución:
-1. Descarga o clona el proyecto
+1. Descarga o clona el proyecto: https://github.com/ChiaraBurni/evidencia2.git
 2. Ejecuta el programa desde la terminal
 3. Utiliza el menu interactivo
