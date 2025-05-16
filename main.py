@@ -1,6 +1,5 @@
 opcion = ""
 
-#permite contar las mediciones
 contador_mediciones = 0
 
 while opcion != "4":
@@ -13,7 +12,7 @@ while opcion != "4":
 
     opcion = input("Seleccione una opción: ")
 
-    # registrar medicion
+    #registrar medicion
     if opcion == "1":
         print("\nRegistro del contenido hídrico del suelo (%): ")
         lote = int(input("Ingrese el numero de lote: "))

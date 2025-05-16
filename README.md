@@ -3,10 +3,10 @@ Nombre del proyecto: Sistema de Monitoreo de Contenido Hídrico de AgroTech Coop
 
 Alumnos: 
 Chiara Burni 41889108
-Juan Manuel Canales
-Valentina Gonzales
-Agustina Rojas
-Ivana Monsalvo
+Juan Manuel Canales 31863489
+Valentina Gonzales 27654886
+Agustina Rojas 43189455
+Ivana Monsalvo 32784899
 
 
 Breve descripción: Menu interactivo que permite monitorear el contenido hidrico del suelo. 
